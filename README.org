@@ -1,4 +1,3 @@
-* Badli configuration file
-  old site https://git.sr.ht/~badli/Stuffs
-  new site https://git.sr.ht/~badli/dot-emacs
-  configurations for Emacs
+* Badli dot Emacs
+  site1 https://git.sr.ht/~badli/dot-emacs
+  site2 https://github.com/badlirashid/dot-emacs
