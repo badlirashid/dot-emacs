@@ -4,7 +4,7 @@
 
 ;; Author  :    Badli Rashid <badli.rashid@yahoo.com>
 ;; Created :    2021-MAC-03
-;; URL     :    https://github.com/badlirashid/Stuffs
+;; URL     :    https://git.sr.ht/~badli/dot-emacs
 ;; Version :    0.1.9
 
 ;; This file is NOT part of GNU Emacs.
